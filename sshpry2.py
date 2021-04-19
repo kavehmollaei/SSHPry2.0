@@ -42,7 +42,7 @@ try:
 except:
    z.psutil = False
 
-print('\nSSHPry2 SSH-TTY control by @nopernik 2017\n')
+print('\nSSHPry2 SSH-TTY control by kavehmollaei 2017\n')
 
 def exitErr(d):
    print(d)
